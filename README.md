@@ -1,0 +1,1 @@
+# microcms-media-remover
